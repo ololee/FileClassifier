@@ -1,3 +1,4 @@
+#include <assert.h>
 #include "../common/Common.h"
 #include "SuffixTrie.h"
 
